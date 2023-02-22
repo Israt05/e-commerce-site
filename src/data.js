@@ -6,9 +6,9 @@ https://www.iconfinder.com/Makoto_msk */
 export const storeProducts = [
   {
     id: 1,
-    title: "Google Pixel - Black",
+    title: "Google Pixel - Blue",
     img: "img/product-1.png",
-    price: 200,
+    price: 250,
     company: "GOOGLE",
     info:
        "Storage-16 GB",
@@ -44,7 +44,7 @@ export const storeProducts = [
     id: 4,
     title: "HTC 10 - White",
     img: "img/product-4.png",
-    price: 150,
+    price: 250,
     company: "htc",
     info:
        "Storage-16 GB",
